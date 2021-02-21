@@ -4,4 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Alleyway.unity
+    guid: 2f5863636afddfd4c8449ff4e87d0d4b
+  m_configObjects: {}
